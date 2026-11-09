@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans serif;
+  margin: 0; 
+  background: #f8f9fa;
+  color: #222;
+  text-align: center;
+}
+hearder {
+ background: #00853E;
+  color: white;
+  padding: 20px; 
+}
+.hero {
+  padding: 70px 20px;
+  background: linear-gradient(135deg, #00853E, #FDEF42, #E31E24);
+}
+.hero h2 {
+  max-width: 750px;
+  margin: auto;
+  font-size: 28px;
+  line-height: 1.4;
+}
+.bnt {
+  display: inline-block;
+  margin-top: 25px;
+  background: black;
+  color: white;
+  padding: 12px 28px;
+  text-decoraion: none;
+  border-radius: 25px;
+  font-weight: bold;
+}
+.about {
+  padding: 50px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+footer {
+   background: #222;
+  color: white;
+  padding: 20px;
+}
